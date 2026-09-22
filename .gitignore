@@ -1,0 +1,11 @@
+.DS_Store
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+**/data/
+**/outputs/
+*.pt
+*.pth
+*.npy
+*.parquet
+*.opus
